@@ -1,0 +1,13 @@
+c:\users\user\documents\visual studio 2015\Projects\Labtask5\Labtask5\bin\Debug\Labtask5.exe.config
+C:\Users\user\documents\visual studio 2015\Projects\Labtask5\Labtask5\bin\Debug\Labtask5.exe
+C:\Users\user\documents\visual studio 2015\Projects\Labtask5\Labtask5\bin\Debug\Labtask5.pdb
+C:\Users\user\documents\visual studio 2015\Projects\Labtask5\Labtask5\bin\Debug\Labtask5.xml
+C:\Users\user\documents\visual studio 2015\Projects\Labtask5\Labtask5\obj\Debug\Labtask5.vbprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2015\Projects\Labtask5\Labtask5\obj\Debug\Labtask5.Form1.resources
+C:\Users\user\documents\visual studio 2015\Projects\Labtask5\Labtask5\obj\Debug\Labtask5.Form2.resources
+C:\Users\user\documents\visual studio 2015\Projects\Labtask5\Labtask5\obj\Debug\Labtask5.Form3.resources
+C:\Users\user\documents\visual studio 2015\Projects\Labtask5\Labtask5\obj\Debug\Labtask5.Resources.resources
+C:\Users\user\documents\visual studio 2015\Projects\Labtask5\Labtask5\obj\Debug\Labtask5.vbproj.GenerateResource.Cache
+C:\Users\user\documents\visual studio 2015\Projects\Labtask5\Labtask5\obj\Debug\Labtask5.exe
+C:\Users\user\documents\visual studio 2015\Projects\Labtask5\Labtask5\obj\Debug\Labtask5.xml
+C:\Users\user\documents\visual studio 2015\Projects\Labtask5\Labtask5\obj\Debug\Labtask5.pdb
